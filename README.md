@@ -44,5 +44,3 @@ Ferramentas que mais utilizei em ciência de dados:
   - BeautifulSoup
 
 ## CyberSecurity
-
-
