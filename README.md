@@ -1,8 +1,8 @@
 # portifolio
 
-* [Linux](https://github.com/kevyngustavo/portifolio/edit/master/README.md#linux)
-* [Ciência de dados](https://github.com/kevyngustavo/portifolio/edit/master/README.md#linux)
-* [CyberSecurity](https://github.com/kevyngustavo/portifolio/edit/master/README.md#linux)
+* [Linux](https://github.com/kevyngustavo/portifolio#linux)
+* [Ciência de dados](https://github.com/kevyngustavo/portifolio#ci%C3%AAncia-de-dados)
+* [CyberSecurity](https://github.com/kevyngustavo/portifolio#cybersecurity)
 
 Este repositório é focado em armazenar conhecimento técnico referentes à diversas áreas da tecnologia pela qual eu estudo. Use os links posteriores para se guiar entre os arquivos escritos por mim e que demonstram meu conhecimento pelo assunto.
 
